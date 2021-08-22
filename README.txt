@@ -1,4 +1,4 @@
-PasswordGen.bat (Runs the program)
+AQUXS8 Mulitool.bat (Runs the program)
 
 
 This program requires Windows OS
